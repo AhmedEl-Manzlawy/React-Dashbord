@@ -1,6 +1,7 @@
-# React + Vite
+# Dashbord using  React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo : ![image](https://github.com/user-attachments/assets/9a89b261-cd1f-42e5-9f7c-76ff453263a3)
+
 
 Currently, two official plugins are available:
 
