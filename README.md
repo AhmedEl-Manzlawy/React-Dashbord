@@ -1,6 +1,6 @@
 # Dashbord using  React + Vite
 
-Live Demo : react-dashbord-5898a.web.app
+Live Demo : https://react-dashbord-5898a.web.app
 
 
 Currently, two official plugins are available:
