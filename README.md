@@ -1,6 +1,6 @@
 # Dashbord using  React + Vite
 
-Live Demo : ![image](https://github.com/user-attachments/assets/9a89b261-cd1f-42e5-9f7c-76ff453263a3)
+Live Demo :
 
 
 Currently, two official plugins are available:
